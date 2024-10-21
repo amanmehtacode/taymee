@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://architects.framer.website/sitemap.xml
